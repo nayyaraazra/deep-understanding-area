@@ -93,7 +93,7 @@ Each project introduces **new concepts** while reinforcing previous lessons, so 
 ---
 
 ### **Project 13: To-do List (with Database)** 🪄(halfway-on-progress)
-- Upgrade Project 4 with SQLite.  
+- Upgrade Project 4 with SQLite/MySQL.  
 - CRUD: add, mark as done, delete.  
 - Bridges CLI → persistent apps.  
 
@@ -102,7 +102,7 @@ Each project introduces **new concepts** while reinforcing previous lessons, so 
 ### **Project 14: Flask Hello World Website**
 - Serve a webpage with Flask.  
 - Route: `/hello/<name>` → shows “Hello, [name]”.  
-- First step into web backend.  
+- First step into web backend. (django or nodejs?)
 
 ---
 
@@ -120,6 +120,8 @@ Each project introduces **new concepts** while reinforcing previous lessons, so 
 - the user should be able to type in a query, click “Google Search”, and be taken to the Google search results for that page.
 
 **1. Wikipedia main page** 
+   including:
+- subject in the form/with markdown .md language  
 
 ## 🛠️ How to Use
 1. Clone the repo:  
