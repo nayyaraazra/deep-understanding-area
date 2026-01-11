@@ -110,8 +110,7 @@ Each project introduces **new concepts** while reinforcing previous lessons, so 
 - Upgrade Project 13 with Flask + SQLite.  
 - Add tasks via form → stored in DB → displayed in browser.  
 - Optional: Add login system.  
-- 🎉 First full-stack project complete!  
-abc
+
 ---
 ### **ADDITIONAL**
 **0. Interface Google Search Web**
