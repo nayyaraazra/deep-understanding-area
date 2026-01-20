@@ -92,7 +92,7 @@ Each project introduces **new concepts** while reinforcing previous lessons, so 
 
 ---
 
-### **Project 13: To-do List (with Database)** 🪄(halfway-on-progress)
+### **Project 13: To-do List (with Database)** ✅
 - Upgrade Project 4 with SQLite/MySQL.  
 - CRUD: add, mark as done, delete.  
 - Bridges CLI → persistent apps.  
